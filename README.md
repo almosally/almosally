@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kheir Almosally</h1>
-<h3 align="center">A passionate cybersecurity for both offensive and defensive.</h3>
+<h3 align="center">Passionate about cybersecurity for both offensive and defensive sides.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kheir&label=Profile%20views&color=0e75b6&style=flat" alt="kheir" /> </p>
 
